@@ -1,0 +1,14 @@
+// Time finished
+"timeFinished" = "Time finished";
+"sorryTimeIsUp" = "Sorry, time is up! You got %i out of 50 answers.";
+"tryAgain" = "Try Again";
+
+// Congratulations
+"congratulations" = "Congratulations";
+"goodJobYouFound" = "Good job! You found all the answers on time. Keep up with the great work.";
+"playAgain" = "Play Again";
+
+// Error
+"oops" = "Oops";
+"somethingWentWrong" = "something went wrong, try again later.";
+"ok" = "Okay";
